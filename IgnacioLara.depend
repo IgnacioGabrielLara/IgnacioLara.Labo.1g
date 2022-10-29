@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1667002371 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebook.h"
+	"marca.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+	"menu.h"
+
+1666973203 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1666973203 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\fecha.h
+
+1666973203 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\validacionesdatos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validacionesDatos.h"
+
+1666973199 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\validacionesdatos.h
+
+1667003123 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebook.h"
+	"validacionesDatos.h"
+	"tipo.h"
+	"marca.h"
+	"menu.h"
+	"cliente.h"
+
+1666974147 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1666973930 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1667001290 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"servicio.h"
+	"notebook.h"
+
+1666973707 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1666977286 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\marca.h
+
+1666973968 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\tipo.h
+
+1666974147 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\servicio.h
+
+1667002988 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\notebook.h
+	"tipo.h"
+	"marca.h"
+	"cliente.h"
+
+1667001262 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\trabajo.h
+	"fecha.h"
+	"notebook.h"
+	"servicio.h"
+
+1667002393 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	"notebook.h"
+
+1666994010 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\menu.h
+
+1667002111 source:c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cliente.h"
+	"validacionesDatos.h"
+
+1667002111 c:\users\usuario\desktop\utn nacho\codeblocks\ignaciolara\cliente.h
+
